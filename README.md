@@ -48,14 +48,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anusi444/anusi444/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 🌐 Connect with Me
 
 <p align="center">
