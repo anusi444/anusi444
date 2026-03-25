@@ -44,15 +44,7 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=anusi444&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anusi444&theme=tokyo-night&hide_border=true"/>
-</p>
+</p> 
 
 ---
 
