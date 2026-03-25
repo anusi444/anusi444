@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Anurag Singh</h1>
-<h3 align="center">🚀 Java Full Stack Developer</h3>
+<h3 align="center">🚀 Java Full Stack Developer | Passionate Coder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Java+Developer;Spring+Boot+Learner;Building+Projects+Daily" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;Java+Developer;Spring+Boot+Enthusiast;Full+Stack+Learner;Building+Real+World+Projects" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-* 🔭 Working on **Java & Spring Boot**
+* 🔭 Currently working on **Java & Spring Boot Projects**
 * 🌱 Learning **Full Stack Development**
-* 💬 Ask me about **Java, MySQL, Git**
-* ⚡ Passionate about coding
+* 💬 Ask me about **Java, MySQL, Git, Web Development**
+* ⚡ Focused on building real-world applications
 
 ---
 
@@ -34,8 +34,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-⭐ Total Stars: 23  
-📌 Total Repositories: 12  
+  <img src="https://github-readme-stats.vercel.app/api?username=anusi444&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anusi444&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
 </p>
 
 ---
@@ -43,7 +43,15 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=anusi444&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=anusi444&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anusi444&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
