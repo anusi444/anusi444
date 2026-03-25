@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Anurag Singh</h1>
-<h3 align="center">🚀 Java Full Stack Developer | Tech Enthusiast</h3>
+<h3 align="center">🚀 Java Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;Java+Developer;Spring+Boot+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Java+Developer;Spring+Boot+Learner;Building+Projects+Daily" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-* 🔭 I’m currently working on **Java & Spring Boot Projects**
-* 🌱 I’m learning **Full Stack Development**
+* 🔭 Working on **Java & Spring Boot**
+* 🌱 Learning **Full Stack Development**
 * 💬 Ask me about **Java, MySQL, Git**
-* ⚡ Fun fact: I love building real-world projects
+* ⚡ Passionate about coding
 
 ---
 
@@ -23,10 +23,10 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Servlet-6DB33F?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/JDBC-000000?style=for-the-badge&logo=database&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"/>
+<img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java"/>
+<img src="https://img.shields.io/badge/Servlet-6DB33F?style=for-the-badge&logo=java"/>
+<img src="https://img.shields.io/badge/JDBC-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat"/>
 </p>
 
 ---
@@ -34,7 +34,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=anusi444&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+⭐ Total Stars: 23  
+📌 Total Repositories: 12  
 </p>
 
 ---
@@ -50,7 +51,9 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-<a href="https://github.com/anusi444"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
+<a href="https://github.com/anusi444">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+</a>
 </p>
 
 ---
